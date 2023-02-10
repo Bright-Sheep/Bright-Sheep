@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🔭 I’m currently a student taking the Data Scientist course from OpenClassroom.
 <!--
 **Bright-Sheep/Bright-Sheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
